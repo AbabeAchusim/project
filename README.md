@@ -1,0 +1,3 @@
+Throughout the Bootcamp, I gained comprehensive skills in full stack development. On the front end, I became proficient in HTML, CSS, and JavaScript, and developed several responsive web pages. On the back end, I worked extensively with Node.js and Express, and managed databases using MongoDB and SQL.
+
+The Bootcamp also helped me develop essential soft skills, such as problem-solving and effective communication within a team setting. I successfully managed project timelines and collaborated with peers to deliver high-quality solutions. This experience has significantly boosted my confidence and prepared me for the challenges ahead.
